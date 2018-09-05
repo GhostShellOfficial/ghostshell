@@ -89,12 +89,12 @@ Expected Hard-cap: 14 Million Euros;<br>
 
 <b>Join our awesome comunity on:</b><br>
 
-Discord: https://discord.gg/gW8hG5S
-Facebook: https://www.facebook.com/GhostShell-1907531856210752/
-BitcoinTalk: https://bitcointalk.org/index.php?topic=4849737
-Youtube: https://www.youtube.com/channel/UC5-6rnwhfqWhkrmW4zALKdw
-Github: https://github.com/GhostShellOfficial/ghostshell
-Reddit: https://www.reddit.com/r/GhostShellOfficial/
+Discord: https://discord.gg/gW8hG5S <br>
+Facebook: https://www.facebook.com/GhostShell-1907531856210752/ <br>
+BitcoinTalk: https://bitcointalk.org/index.php?topic=4849737 <br>
+Youtube: https://www.youtube.com/channel/UC5-6rnwhfqWhkrmW4zALKdw <br>
+Github: https://github.com/GhostShellOfficial/ghostshell <br>
+Reddit: https://www.reddit.com/r/GhostShellOfficial/ <br>
 
 GitHub is empty because we do not release unfinished software.<br>
 
